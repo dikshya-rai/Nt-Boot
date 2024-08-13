@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#features-section{
+    background: #F3FCFF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  
+  .feature-block{
+    padding: 15px;
+    box-shadow: 1px 1px 5px 0px rgba(53, 62.00000000000001, 70, 0.15);
+    border-radius: 10px;
+    margin-bottom: 40px;
+  }
